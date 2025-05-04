@@ -76,5 +76,8 @@ R² Score: 0.7545
 
 These results show that the model explains about 75% of the variance in student performance.
 
+## Plot of Actual vs Predicted Grades
+![Plot](plot.png)
+
 Contributing
 Feel free to fork this repository and submit pull requests. Any contributions are welcome, whether it's improving the model, fixing bugs, or adding new features!
